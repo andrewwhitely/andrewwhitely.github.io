@@ -1,0 +1,29 @@
+#-------------------------------
+# Site Settings
+title: Andrew Whitely
+author: Andrew Whitely
+description: software engineer and photographer
+
+
+#-------------------------------
+# Menu Settings
+menu__settings:
+  menu__items:
+    - title: 'home'
+      url: '/'
+    - title: 'changes'
+      url: 'https://changes.andrewwhitely.com/'
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: hi, my name’s andrew
+  hero__description: software engineer, photographer, amateur chef, terrible bartender.
+
+#-------------------------------
+# Footer Settings
+social:
+- {icon: "ion-logo-twitter", color: "#CC5500", link: "https://twitter.com/ndrewwhitely/"}
+- {icon: "ion-logo-github", color: "#CC5500", link: "https://github.com/andrewwhitely/"}
+- {icon: "ion-logo-linkedin", color: '#CC5500', link: "https://linkedin.com/in/andrewwhitely/"}
