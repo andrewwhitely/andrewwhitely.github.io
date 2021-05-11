@@ -24,7 +24,7 @@ hero:
 #-------------------------------
 # Footer Settings
 social:
-- {icon: "ion-logo-twitter", color: "#CC5500", link: "https://twitter.com/ndrewwhitely/"}
-- {icon: "ion-logo-github", color: "#CC5500", link: "https://github.com/andrewwhitely/"}
-- {icon: "ion-logo-linkedin", color: '#CC5500', link: "https://linkedin.com/in/andrewwhitely/"}
-- {icon: "ion-logo-google", color: '#CC5500', link: "mailto:andrewnwhitely@gmail.com?subject=Inquiry"}
+- {label: "twitter", color: "#CC5500", link: "https://twitter.com/ndrewwhitely/"}
+- {label: "github", color: "#CC5500", link: "https://github.com/andrewwhitely/"}
+- {label: "linkedin", color: '#CC5500', link: "https://linkedin.com/in/andrewwhitely/"}
+- {label: "contact", color: '#CC5500', link: "mailto:andrewnwhitely@gmail.com?subject=Inquiry"}
